@@ -28,9 +28,7 @@ abstract: Simulation and simulation optimization have primarily been used for st
 #- Source Themes
 #featured: true
 
-links:
-- name: Custom Link
-  url: https://ieeexplore.ieee.org/abstract/document/8247910
+
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8247910
 
 
