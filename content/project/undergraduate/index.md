@@ -2,7 +2,7 @@
 title: IIMT3636 Decision and Risk Analysis
 summary:
 tags:
-- TPG
+- ug
 date: "2021-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
