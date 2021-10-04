@@ -1,5 +1,5 @@
 ---
-title: IIMT3636 Decision and Risk Analysis
+title: MsBA7014 Business Simulation
 summary:
 tags:
 - TPG
