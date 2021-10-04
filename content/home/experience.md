@@ -31,13 +31,9 @@ experience:
     location: Evanston, Illinois
     date_start: '2016-07-01'
     date_end: '2017-06-30'
-    description: |2-
-        Responsibilities include:
+    description:
 
-        * Analysing
-        * Modelling
-        * Deploying
 
-#design:
-#  columns: '2'
+design:
+  columns: '2'
 ---
