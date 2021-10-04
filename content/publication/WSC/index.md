@@ -4,7 +4,7 @@ authors:
 - admin
 - Barry L Nelson
 date: "2017-07-01T00:00:00Z"
-doi: ""
+doi: "10.1109/WSC.2017.8247910"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -29,7 +29,7 @@ abstract: Simulation and simulation optimization have primarily been used for st
 #featured: true
 
 
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8247910
+#url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8247910
 
 
 # Featured image
