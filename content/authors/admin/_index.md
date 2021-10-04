@@ -6,7 +6,7 @@ title: Huiyin Ouyang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Operations Management
+role: Assistant Professor of Operations Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Statistics and Operations Management
     institution:  University of North Carolina at Chapel Hill
-    year: 2012
+    year: 2016
   - course: MS in  Management Science and Engineering
     institution: Tsinghua University
     year: 2009
@@ -71,7 +71,7 @@ email: "oyhy at hku dot hk"
 highlight_name: true
 ---
 
-Huiyin Ouyang is a professor of Operations Management at the HKU Business School. Her research interests include stochastic modeling and analysis of service systems, healthcare operations, simulation analytics, and data-drive decision making.
+Huiyin Ouyang is an assistant professor of Operations Management at the HKU Business School. Her research interests include stochastic modeling and analysis of service systems, healthcare operations, simulation analytics, and data-drive decision making.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
