@@ -72,6 +72,3 @@ highlight_name: true
 ---
 
 Huiyin Ouyang is an assistant professor of Operations Management at the HKU Business School. Her research interests include stochastic modeling and analysis of service systems, healthcare operations, simulation analytics, and data-drive decision making.
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
