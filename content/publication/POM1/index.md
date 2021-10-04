@@ -1,5 +1,5 @@
 ---
-title: "Assigning Priorities (or not) in Service Systems with Nonlinear Waiting Costs"
+title: "Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments"
 authors:
 - Farzad Zaerpour
 - Marco Bijvank
