@@ -8,7 +8,7 @@
 theme: rose
 day_night: true
 font: 'native'
-font_size: M
+font_size: L
 
 # SEO
 
@@ -36,7 +36,7 @@ coordinates:
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
-#appointment_url: 'https://calendly.com'
+appointment_url: 'oyhy@hku.hk'
 contact_links:
 #  - icon: twitter
 #    icon_pack: fab
@@ -60,7 +60,7 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: false
+  show_logo: true
   show_language: false
   show_day_night: true
   show_search: false
