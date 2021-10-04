@@ -32,7 +32,7 @@ education:
   - course: MS in  Management Science and Engineering
     institution: Tsinghua University
     year: 2009
-  - course: BSc in Industrial Engineering
+  - course: BEng in Industrial Engineering
     institution: Tsinghua University
     year: 2007
 
@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "oyhy at hku dot hk"
+email: "oyhy@hku.hk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
