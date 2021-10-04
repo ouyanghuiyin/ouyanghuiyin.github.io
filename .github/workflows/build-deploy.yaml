@@ -5,21 +5,45 @@ on:
     branches:
       - master
 
-jobs:
-  build:
+#jobs:
+#  build:
 
-    runs-on: ubuntu-latest
+#    runs-on: ubuntu-latest
 
-    steps:
-    - name: Checkout master
-      uses: actions/checkout@v1
-      with:
-        submodules: true
+#    steps:
+#    - name: Checkout master
+#      uses: actions/checkout@v1
+#      with:
+#        submodules: true
 
-    - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
-      env:
-        HUGO_VERSION: 0.68.3
-        TARGET_REPO: ouyanghuiyin/ouyanghuiyin.github.io
-        TOKEN: ${{ secrets.EXAMPLE_TOKEN }}
+#    - name: Hugo Deploy GitHub Pages
+#      uses: benmatselby/hugo-deploy-gh-pages@master
+#      env:
+#        HUGO_VERSION: 0.68.3
+#        TARGET_REPO: ouyanghuiyin/ouyanghuiyin.github.io
+#        TOKEN: ${{ secrets.EXAMPLE_TOKEN }}
 #        CNAME: www.ouyanghuiyin.github.io
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.82.1'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          cname: ouyanghuiyin.com
