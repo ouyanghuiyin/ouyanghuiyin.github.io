@@ -16,7 +16,7 @@ date: "2020"
 doi: "https://doi.org/10.1287/opre.2019.1876"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
