@@ -5,7 +5,7 @@
 
 title: Huiyin Ouyang # Website name
 baseurl: 'https://ouyanghuiyin.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
