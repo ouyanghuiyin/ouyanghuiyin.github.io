@@ -1,15 +1,15 @@
 ---
-title: IIMT3636 Decision and Risk Analysis
-summary: An example of using the in-built project page.
+title: MsBA7014 Business Simulation
+summary:
 tags:
-- ug
+- TPG
 date: "2021-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 
 
