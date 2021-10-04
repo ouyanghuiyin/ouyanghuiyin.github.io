@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: oyhy@hku.hk
-phone: 3917 4221
+phone: (+852) 3917 4221
 address:
   street: KKL Buiding Room 1321
   city: Pok Fo Lam
@@ -60,10 +60,10 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization
@@ -77,7 +77,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:

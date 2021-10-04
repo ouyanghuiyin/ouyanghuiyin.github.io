@@ -18,7 +18,7 @@ bio: My research interests include stochastic modeling and analysis of service s
 
 # Interests to show in About widget
 interests:
-- Operations Management
+- Stochastic modeling and analysis
 - Healthcare Operations
 - Simulation analytics
 - Data-driven decisions
