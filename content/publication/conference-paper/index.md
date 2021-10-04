@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2017 Winter Simulation Conference*
-publication_short: In *WSC*
+publication_short: In *2017 WSC*
 
 abstract: Simulation and simulation optimization have primarily been used for static system design problems based on long-run average performance measures. Control or policy-based optimization has been a weakness, because it requires a way to predict future behavior based on current state and time information. This work is a first step in that direction with a focus on congestion measures for queueing systems. The idea is to fit predictive models to dynamic sample paths of the system state from a detailed simulation. We propose a two-step method to dynamically predict the probability that the system state belongs to a certain subset and test the performance of this method on two examples.
 
@@ -32,13 +32,7 @@ links:
 - name: Custom Link
   url: https://ieeexplore.ieee.org/abstract/document/8247910
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8247910
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
