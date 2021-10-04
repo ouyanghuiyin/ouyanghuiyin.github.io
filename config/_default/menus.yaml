@@ -11,12 +11,15 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
+
   - name: Projects
     url: '#projects'
     weight: 30
+
   - name: Teaching
     url: '#projects'
     weight: 40
+    
   - name: Contact
     url: '#contact'
     weight: 60
