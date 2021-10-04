@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Management Science*"
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
 abstract: For a queueing system with multiple customer types differing in service-time distributions and waiting costs, it is well known that the cµ-rule is optimal if costs for waiting are incurred linearly with time. In this paper, we seek to identify policies that minimize the long-run average cost under nonlinear waiting cost functions within the set of fixed priority policies that only use the type identities of customers independently of the system state. For a single-server queueing system with Poisson arrivals and two or more customer types, we first show that some form of the cµ-rule holds with the caveat that the indices are complex, depending on the arrival rate, higher moments of service time, and proportions of customer types. Under quadratic cost functions, we provide a set of conditions that determine whether to give priority to one type over the other or not to give priority but serve them according to first-come, first-served (FCFS). These conditions lead to useful insights into when strict (and fixed) priority policies should be preferred over FCFS and when they should be avoided. For example, we find that, when traffic is heavy, service times are highly variable, and the customer types are not heterogenous, so then prioritizing one type over the other (especially a proportionally dominant type) would be worse than not assigning any priority. By means of a numerical study, we generate further insights into more specific conditions under which fixed priority policies can be considered as an alternative to FCFS.
@@ -27,6 +27,9 @@ abstract: For a queueing system with multiple customer types differing in servic
 summary: Priority assignment in an M/G/1 queue
 
 
+links:
+ - name: ""
+   url: "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3952"
 
 
 # Featured image

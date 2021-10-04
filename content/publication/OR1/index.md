@@ -6,7 +6,7 @@ title: "Allocation of intensive care unit beds in periods of high demand"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Nilay Tanık Argon
+- Nilay T. Argon
 - Serhan Ziya
 
 # Author notes (optional)
@@ -31,17 +31,14 @@ publication_short: In *Operations Research*
 abstract: The objective of this paper is to use mathematical modeling and analysis to develop insights into and policies for making bed allocation decisions in an intensive care unit (ICU) of a hospital during periods when patient demand is high. We first develop a stylized mathematical model in which patients’ health conditions change over time according to a Markov chain. In this model, each patient is in one of two possible health stages, one representing the critical and the other representing the highly critical health stage. The ICU has limited bed availability and therefore when a patient arrives and no beds are available, a decision needs to be made as to whether the patient should be admitted to the ICU and if so, which patient in the ICU should be transferred to the general ward. With the objective of minimizing the long-run average mortality rate, we provide analytical characterizations of the optimal policy under certain conditions. Then, based on these analytical results, we propose heuristic methods, which can be used under assumptions that are more general than what is assumed for the mathematical model. Finally, we demonstrate that the proposed heuristic methods work well by a simulation study, which relaxes some of the restrictive assumptions of the mathematical model by considering a more complex transition structure for patient health and allowing for patients to be possibly queued for admission to the ICU and readmitted from the general ward after they are discharged.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-links:
- - name: Custom Link
-   url: https://pubsonline.informs.org/doi/abs/10.1287/opre.2019.1876
+
 
 
 
