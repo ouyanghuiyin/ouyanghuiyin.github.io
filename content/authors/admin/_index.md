@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Statistics and Operations Management
+  - course: PhD in Statistics and Operations Research
     institution:  University of North Carolina at Chapel Hill
     year: 2016
   - course: MS in  Management Science and Engineering
