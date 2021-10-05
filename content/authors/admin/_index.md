@@ -10,8 +10,8 @@ role: Assistant Professor of Operations Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The University of Hong Kong
-  url: https://www.hku.hk/
+- name: HKU Business School
+  url: https://www.fbe.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include stochastic modeling and analysis of service systems,  healthcare operations, simulation analytics, and data-driven decision making.
