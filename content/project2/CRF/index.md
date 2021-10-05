@@ -1,15 +1,15 @@
 ---
-title: "Hong Kong RECAP A Systematic Response Strategy for Novel Infectious Disease Pandemic  2021 - 2024"
+title: "Hong Kong RECAP A Systematic Response Strategy for Novel Infectious Disease Pandemic (Co-PI)"
 authors:
-- Haipeng Shen (PC)
-- admin (CoPI)
+- Haipeng Shen
+- admin
 - Dan Yang
 - Park Eric
 - Zhankun Sun
 
 date: '2021-06-01'
 
-summary: "Hong Kong Research Grants Council Collaborative Research Fund (CRF)   C7162-20GF"
+summary: "Hong Kong Research Grants Council Collaborative Research Fund (CRF)   C7162-20GF  2021 - 2024"
 
 
 # Publication type.
