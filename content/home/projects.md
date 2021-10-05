@@ -9,7 +9,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 41
 
 title: Projects
 subtitle: ''
@@ -43,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
