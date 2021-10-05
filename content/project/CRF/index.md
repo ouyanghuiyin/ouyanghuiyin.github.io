@@ -3,7 +3,7 @@ title:  Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Dis
 summary: Hong Kong Research Grants Council Collaborative Research Fund (CRF)   C7162-20GF
 tags:
 - healthcare
-date: "2020-01-01T00:00:00Z"
+date: "2021-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
