@@ -1,5 +1,5 @@
 ---
-title: "Allocation of intensive care unit beds in periods of high demand"
+title: "Allocation of Intensive Care Unit Beds in Periods of High Demand"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
