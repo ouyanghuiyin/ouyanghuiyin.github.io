@@ -1,5 +1,5 @@
 ---
-title: "Co-I: Impact of emergency department waiting time announcements on patient behavior"
+title: "Co-I: Impact of Emergency Department Waiting Time Announcements on Patient Behavior"
 authors:
 - Eric Park
 - Sik Hon Matthew Tsui
