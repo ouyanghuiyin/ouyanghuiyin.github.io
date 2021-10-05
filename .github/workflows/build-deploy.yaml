@@ -1,31 +1,13 @@
-name: Build and Deploy
-
+name: github pages
 on:
   push:
     branches:
       - master
+  pull_request:
 
-#jobs:
-#  build:
-
-#    runs-on: ubuntu-latest
-
-#    steps:
-#    - name: Checkout master
-#      uses: actions/checkout@v1
-#      with:
-#        submodules: true
-
-#    - name: Hugo Deploy GitHub Pages
-#      uses: benmatselby/hugo-deploy-gh-pages@master
-#      env:
-#        HUGO_VERSION: 0.68.3
-#        TARGET_REPO: ouyanghuiyin/ouyanghuiyin.github.io
-#        TOKEN: ${{ secrets.EXAMPLE_TOKEN }}
-#        CNAME: www.ouyanghuiyin.github.io
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
         with:
@@ -35,7 +17,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.82.1'
+          hugo-version: '0.88.1'
           extended: true
 
       - name: Build
@@ -46,4 +28,4 @@ jobs:
         with:
           github_token: ${{ secrets.EXAMPLE_TOKEN }}
           publish_branch: gh-pages
-          cname: ouyanghuiyin.com
+      #    cname: ouyanghuiyin.com
