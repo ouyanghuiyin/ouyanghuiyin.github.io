@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: rose
+theme: ocean
 day_night: true
 font: 'native'
-font_size: L
+font_size: M
 
 # SEO
 
