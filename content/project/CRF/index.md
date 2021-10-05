@@ -1,10 +1,9 @@
 ---
-title: Impact of emergency department waiting time announcements on patient behavior
- 2020-2022 (Co-I)
-summary: Hong Kong Research Grants Council Early Career Scheme  17502320
+title:  Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic 2021-2024 (Co-PI)
+summary: Hong Kong Research Grants Council Collaborative Research Fund (CRF)   C7162-20GF
 tags:
 - healthcare
-date: "2020-09-01T00:00:00Z"
+date: "2021-06-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

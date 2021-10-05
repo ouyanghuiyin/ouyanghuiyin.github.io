@@ -6,8 +6,7 @@ widget: portfolio
 # This file represents a page section.
 headless: true
 
-active: true
-
+active: false
 # Order that this section appears on the page.
 weight: 65
 
@@ -36,7 +35,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
