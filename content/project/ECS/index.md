@@ -4,6 +4,7 @@ title: "1. PI: Optimal bed allocation in intensive care unit with patients healt
 summary: Hong Kong Research Grants Council Early Career Scheme (ECS) 27501020
 tags:
 - healthcare
+date: '2021-01-01'
 
 image:
   caption: ""
