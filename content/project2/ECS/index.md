@@ -1,5 +1,5 @@
 ---
-title: "Optimal bed allocation in intensive care unit with patients health evolution and patient readmission (PI)"
+title: "PI: Optimal bed allocation in intensive care unit with patients health evolution and patient readmission"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

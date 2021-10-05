@@ -1,10 +1,10 @@
 ---
-title: "Hong Kong RECAP A Systematic Response Strategy for Novel Infectious Disease Pandemic (Co-PI)"
+title: "Co-PI: Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic"
 authors:
 - Haipeng Shen
 - admin
+- Eric Park
 - Dan Yang
-- Park Eric
 - Zhankun Sun
 
 date: '2021-06-01'
