@@ -29,10 +29,10 @@ education:
   - course: PhD in Statistics and Operations Research
     institution:  University of North Carolina at Chapel Hill
     year: 2016
-  - course: MS in  Management Science and Engineering
+  - course: MSc in  Management Science and Engineering
     institution: Tsinghua University
     year: 2009
-  - course: BEng in Industrial Engineering
+  - course: BSc in Industrial Engineering
     institution: Tsinghua University
     year: 2007
 
