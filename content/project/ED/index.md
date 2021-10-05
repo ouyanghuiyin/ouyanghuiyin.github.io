@@ -1,9 +1,10 @@
 ---
-title: IIMT3636 Decision and Risk Analysis
-summary:
+title: Impact of emergency department waiting time announcements on patient behavior
+ 2020-2022 (Co-I)
+summary: Hong Kong Research Grants Council Early Career Scheme  17502320
 tags:
-- ug
-date: "2021-09-01T00:00:00Z"
+- healthcare
+date: "2020-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
