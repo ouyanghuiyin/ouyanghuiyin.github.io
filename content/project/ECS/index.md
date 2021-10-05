@@ -1,7 +1,7 @@
 ---
-title: Optimal bed allocation in intensive care unit with patients' health evolution and patient readmission
+title: PI: Optimal bed allocation in intensive care unit with patients' health evolution and patient readmission. 2021 - 2023
 
-summary: Hong Kong Research Grants Council Collaborative Research Fund.
+summary: Hong Kong Research Grants Council Early Career Scheme (ECS) 27501020.
 tags:
 - tpg
 date: "2021-09-01T00:00:00Z"
@@ -13,8 +13,7 @@ image:
   caption: ""
   focal_point: Smart
 
----
- This course introduces simulation modeling to analyze business processes and solve practical problems. Students will gain basic knowledge such as Monte Carlo simulation and discrete event simulation and learn to build simulation models of business processes and interpret simulation results, and more importantly, facilitate decision-making process. This is a hands-on course on computer simulation with @Risk (www.palisade.com) and Simio (www.simio.com).
+
 
 
 
@@ -25,3 +24,5 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+ This course introduces simulation modeling to analyze business processes and solve practical problems. Students will gain basic knowledge such as Monte Carlo simulation and discrete event simulation and learn to build simulation models of business processes and interpret simulation results, and more importantly, facilitate decision-making process. This is a hands-on course on computer simulation with @Risk (www.palisade.com) and Simio (www.simio.com).
