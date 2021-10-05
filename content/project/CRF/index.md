@@ -1,7 +1,8 @@
 ---
-title: "Hong Kong RECAP A Systematic Response Strategy for Novel Infectious Disease Pandemic" (CoPI)
+title: "Hong Kong RECAP A Systematic Response Strategy for Novel Infectious Disease Pandemic  (CoPI)"
 
-summary: Hong Kong Research Grants Council Collaborative Research Fund (CRF)   "C716220GF"
+summary: "Hong Kong Research Grants Council Collaborative Research Fund (CRF)   C7162-20GF"
+
 tags:
 - healthcare
 
