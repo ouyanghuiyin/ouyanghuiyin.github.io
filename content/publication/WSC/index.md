@@ -1,5 +1,5 @@
 ---
-title: "Simulation-based predictive analytics for dynamic queueing systems"
+title: "Simulation-based Predictive Analytics for Dynamic Queueing Systems"
 authors:
 - admin
 - Barry L Nelson
