@@ -10,7 +10,7 @@ authors:
 - Serhan Ziya
 
 # Author notes (optional)
-publishDate: "2021-01-01T00:00:00Z"
+
 doi: "https://doi.org/10.1287/opre.2019.1876"
 
 # Schedule page publish date (NOT publication's date).
