@@ -6,9 +6,9 @@ tags:
 
 date: '2021-09-01'
 
-image:
-  caption: ""
-  focal_point: Smart
+#image:
+#  caption: ""
+#  focal_point: Smart
 
 
 
