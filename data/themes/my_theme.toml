@@ -6,6 +6,8 @@ light = true
 
 # Primary
 primary = "#14b18c"
+primary_light =  "#C4DBF6"
+primary_dark = "3B8BEB"
 
 # Menu
 menu_primary = "#149bd5"
@@ -20,8 +22,5 @@ home_section_even = "#E7E3D4"
 [dark]
   link = "#bbdefb"
   link_hover = "#bbdefb"
-  # Home sections
-  home_section_odd = "#C4DBF6"
-  home_section_even = "#8590AA"
 
   #Google color pick https://htmlcolors.com/google-color-picker
