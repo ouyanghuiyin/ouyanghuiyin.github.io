@@ -21,7 +21,7 @@ date: "2020-09-10T00:00:00Z"
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: "Hong Kong Research Grants Council General Research Fund  (GRF) 17502320 2020 - 2022"
+summary: "General Research Fund  (GRF) 17502320, Hong Kong Research Grants Council, 2020 September - 2022 August"
 
 
 

@@ -9,7 +9,7 @@ authors:
 
 date: '2021-06-01'
 
-summary: "Hong Kong Research Grants Council Collaborative Research Fund (CRF)   C7162-20GF  2021 - 2024"
+summary: "Collaborative Research Fund (CRF)  C7162-20GF, Hong Kong Research Grants Council,   2021 June - 2023 June"
 
 
 # Publication type.

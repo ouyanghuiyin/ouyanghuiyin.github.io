@@ -8,7 +8,7 @@ authors:
 - admin
 
 # Summary. An optional shortened abstract.
-summary: "Hong Kong Research Grants Council Early Career Scheme (ECS) 27501020  2021-2023"
+summary: "Early Career Scheme (ECS) 27501020, Hong Kong Research Grants Council,  2021 January - 2023 December"
 # Author notes (optional)
 
 
