@@ -1,26 +1,25 @@
 # Theme metadata
-name = "Customized"
+name = "Earth"
 
 # Is theme light or dark?
-light = true
+is_light = true
 
 # Primary
-primary = "3B8BEB"
-primary_light =  "#C4DBF6"
-primary_dark = "#8590AA"
+primary = "#707070"
 
 # Menu
-menu_primary = "#196F3D"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
-menu_title = "#ee4226"
+menu_primary = "#f6eee9"
+menu_text = "#000"
+menu_text_active = "#000"
+menu_title = "#000"
+
+# Links
+link = "#707070"
+link_hover = "#000"
+link_decoration = "underline"
 
 # Home sections
-home_section_odd = "#C4DBF6"
-home_section_even = "#FDFEFE"
+home_section_odd = "#f9f7f6"
+home_section_even = "#ffffff"
 
-[dark]
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
-
-  #Google color pick https://htmlcolors.com/google-color-picker
+font = "rose"
