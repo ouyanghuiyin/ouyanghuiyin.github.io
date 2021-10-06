@@ -5,7 +5,7 @@ name = "Earth"
 is_light = true
 
 # Primary
-primary = "#008080"
+primary = "#3B8BEB"
 
 # Menu
 menu_primary = "#3B8BEB"
@@ -19,7 +19,7 @@ link_hover = "#008080"
 link_decoration = "underline"
 
 # Home sections
-home_section_odd = "#f9f7f6"
+home_section_odd = "#FEFCFF"
 home_section_even = "#ffffff"
 
 font = "rose"
