@@ -18,8 +18,8 @@ publishDate: "2021-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *American Journal of Emergency Medicine*
-publication_short: In *AJEM*
+publication: Accepted by *American Journal of Emergency Medicine*
+#publication_short: Accepted by *AJEM*
 
 abstract: ""
 
