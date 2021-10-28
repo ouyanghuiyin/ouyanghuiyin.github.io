@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stochastic kriging | Xiaowei Zhang</title>
+    <link>https://xiaoweiz.github.io/tag/stochastic-kriging/</link>
+      <atom:link href="https://xiaoweiz.github.io/tag/stochastic-kriging/index.xml" rel="self" type="application/rss+xml" />
+    <description>stochastic kriging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 25 Oct 2021 07:45:00 -0700</lastBuildDate>
+    <image>
+      <url>https://xiaoweiz.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>stochastic kriging</title>
+      <link>https://xiaoweiz.github.io/tag/stochastic-kriging/</link>
+    </image>
+    
+    <item>
+      <title>Surrogate-based Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/talk/surrogate-based-simulation-optimization/</link>
+      <pubDate>Mon, 25 Oct 2021 07:45:00 -0700</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/surrogate-based-simulation-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surrogate-Based Simulation Optimization</title>
+      <link>https://xiaoweiz.github.io/publication/surrogate-based-so/</link>
+      <pubDate>Tue, 27 Jul 2021 22:07:59 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/surrogate-based-so/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/publication/high-dim-kriging/</link>
+      <pubDate>Wed, 09 Jun 2021 10:00:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/high-dim-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample and Computationally Efficient Simulation Metamodeling in High Dimensions</title>
+      <link>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</link>
+      <pubDate>Sat, 05 Dec 2020 11:15:00 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/sample-and-computationally-efficient-simulation-metamodeling-in-high-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</link>
+      <pubDate>Wed, 12 Dec 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging-gradients-wsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Approach to Enhancing Stochastic Kriging with Gradients</title>
+      <link>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</link>
+      <pubDate>Wed, 12 Dec 2018 10:00:00 +0000</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/a-scalable-approach-to-enhancing-stochastic-kriging-with-gradients/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Stochastic Kriging for Queueing Simulation with Stylized Models</title>
+      <link>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</link>
+      <pubDate>Sat, 31 Mar 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/stylized-model-stochastic-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/publication/scalable-kriging/</link>
+      <pubDate>Fri, 02 Mar 2018 18:06:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/scalable-kriging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Kriging for Inadequate Simulation Models</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate/</link>
+      <pubDate>Thu, 08 Feb 2018 17:48:04 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Stochastic Kriging with Markovian Covariances</title>
+      <link>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</link>
+      <pubDate>Fri, 01 Dec 2017 09:30:00 +0000</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/scalable-stochastic-kriging-with-markovian-covariances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Approaches for Enhancing Simulation Metamodeling</title>
+      <link>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</link>
+      <pubDate>Fri, 30 Jun 2017 08:20:00 +0000</pubDate>
+      <guid>https://xiaoweiz.github.io/talk/new-approaches-for-enhancing-simulation-metamodeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Metamodeling in the Presence of Model Inadequacy</title>
+      <link>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</link>
+      <pubDate>Sat, 03 Dec 2016 21:00:44 +0800</pubDate>
+      <guid>https://xiaoweiz.github.io/publication/kriging-inadequate-wsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
