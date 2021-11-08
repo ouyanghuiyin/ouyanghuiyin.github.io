@@ -12,7 +12,9 @@ authors:
 # Author notes (optional)
 
 doi: "https://doi.org/10.1287/opre.2019.1876"
-
+links:
+ - name: "Media"
+   url: "https://www.scientificamerican.com/article/how-to-triage-patients-who-need-intensive-care/"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-01T00:00:00Z"
 date: "2020-02-20T00:00:00Z"
