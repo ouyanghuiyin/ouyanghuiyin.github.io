@@ -8,7 +8,7 @@ authors:
 - Eddy Lang
 
 date: "2021-11-01T00:00:00Z"
-doi: "https://doi.org/10.1287/opre.2019.1876"
+doi: "10.1016/j.ajem.2021.10.049"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-01T00:00:00Z"
