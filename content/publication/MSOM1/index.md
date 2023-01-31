@@ -12,7 +12,7 @@ authors:
 # doi: "https://doi.org/10.1287/mnsc.2020.3952"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "Under revision"
+publishDate: "2023"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
