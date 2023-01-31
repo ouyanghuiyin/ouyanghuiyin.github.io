@@ -22,7 +22,7 @@ date: "2022-12-28T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Manufacturing & Service Operations Management*"
+publication: "*MSOM Under Revision*"
 publication_short: ""
 
 abstract: "<b>Problem definition</b>: Emergency department (ED) delay announcement systems are implemented in many countries. We answer three important questions pertaining to the operations and effectiveness of such systems by studying the public hospital network and ED waiting time (WT) announcement system in Hong Kong SAR’s ‘universal’ public healthcare system: (1) How many patients are aware of (and sensitive to) the ED WT announcements? (2) How sensitive are these patients to the announced WT? (3) How can the Hong Kong government improve the WT announcement system?
