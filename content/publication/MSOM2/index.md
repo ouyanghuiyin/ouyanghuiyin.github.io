@@ -19,7 +19,7 @@ date: "2023-01-28T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Manufacturing & Service Operations Management*"
+publication: "*Submitted to MSOM*"
 publication_short: ""
 
 abstract: "Problem definition: Motivated by an intriguing observation of a time-varying pattern in physician productivity (measured by the number of new patients seen per hour, or PPH), we study a continuous-time optimal control problem to understand the transient behavior of individual physicians within their shifts in emergency departments (EDs). Methodology/results: By applying Pontryagin’s maximum principle, we characterize the optimal policy and provide insights into physician capacity, productivity, and throughput. We conclude that individual physicians’ transient behavior is intrinsic and mainly induced by shift-based scheduling. We leverage the insights from time-varying PPH to model a complex ED system as a time-varying multi-server queue with shift-hour-dependent service rates. Validated using data from two Canadian EDs, our simulation results show that our queueing model can accurately capture time-of-day-dependent patient
