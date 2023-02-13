@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Huiyin Ouyang
+title: Huiyin Ouyang
 
 # Is this the primary user of the site?
 superuser: true
