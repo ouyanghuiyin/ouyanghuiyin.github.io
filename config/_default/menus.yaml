@@ -15,6 +15,10 @@ main:
     url: '#publications'
     weight: 20
 
+  - name: Work in progress
+    url: '#work-in-progress'
+    weight: 20
+
   - name: Projects
     url: '#projects2'
     weight: 40
