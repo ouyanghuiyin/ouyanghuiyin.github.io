@@ -1,11 +1,11 @@
 ---
-title: "The impact of emergency department crowding on admission decisions and patient outcomes"
+title: "Exact Algorithm and Machine Learning-Based Heuristic for the Stochastic Lot Streaming and Scheduling Problem"
 
 authors:
-- Liu, R. 
-- Wang, C. 
+- Liu, Ran
+- Wang, Chengkai
 - admin
-- Wu Z.
+- Wu Zerui
 
 date: "2023-09-01T00:00:00Z"
 #doi: ""

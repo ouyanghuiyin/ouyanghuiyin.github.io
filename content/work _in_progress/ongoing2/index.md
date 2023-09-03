@@ -1,29 +1,25 @@
 ---
-title: "Service-level Computation in Time-varying Queueing System with Priorities: Application to Physician Staffing in the Emergency Department"
-
+title: "Simulation-based Predictive Analytics for Dynamic Queueing Systems"
 authors:
-- Liu, R. 
 - admin
-- Wang, C. 
-- Xie, X.
-
-date: "2023-09-01T00:00:00Z"
-# doi: "10.1016/j.ajem.2021.10.049"
+- Barry L Nelson
+date: "2017-12-01T00:00:00Z"
+doi: "10.1109/WSC.2017.8247910"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patenthttps://pubmed.ncbi.nlm.nih.gov/34741995/
-publication_types: ["3"]
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under revision at IISE Transactions*"
-#publication_short: Accepted by *AJEM*
+publication: In *2017 Winter Simulation Conference*
+publication_short: In *2017 WSC*
 
-abstract: ""
+abstract: Simulation and simulation optimization have primarily been used for static system design problems based on long-run average performance measures. Control or policy-based optimization has been a weakness, because it requires a way to predict future behavior based on current state and time information. This work is a first step in that direction with a focus on congestion measures for queueing systems. The idea is to fit predictive models to dynamic sample paths of the system state from a detailed simulation. We propose a two-step method to dynamically predict the probability that the system state belongs to a certain subset and test the performance of this method on two examples.
 
 # Summary. An optional shortened abstract.
 #summary:
