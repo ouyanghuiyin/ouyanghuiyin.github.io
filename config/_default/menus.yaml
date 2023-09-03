@@ -17,15 +17,15 @@ main:
 
   - name: Work in progress
     url: '#work-in-progress'
-    weight: 20
+    weight: 30
 
   - name: Projects
     url: '#projects2'
-    weight: 40
+    weight: 50
 
   - name: Teaching
     url: '#courses'
-    weight: 30
+    weight: 40
 
   - name: Contact
     url: '#contact'
