@@ -2,10 +2,10 @@
 title: "Service-level Computation in Time-varying Queueing System with Priorities: Application to Physician Staffing in the Emergency Department"
 
 authors:
-- Liu, Ran 
+- Liu Ran 
 - admin
-- Wang, Chengkai 
-- Xie, Xiaolan
+- Wang Chengkai 
+- Xie Xiaolan
 
 date: "2023-09-01T00:00:00Z"
 # doi: "10.1016/j.ajem.2021.10.049"
