@@ -6,7 +6,7 @@ title: "Resource Allocation in Urban Search and Rescue Operations During a Flood
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Zhang Zheqi
+- Zheqi Zhang
 - Nilay T. Argon
 - Serhan Ziya
 

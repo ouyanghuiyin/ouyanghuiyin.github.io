@@ -2,10 +2,10 @@
 title: "Exact Algorithm and Machine Learning-Based Heuristic for the Stochastic Lot Streaming and Scheduling Problem"
 
 authors:
-- Liu Ran
-- Wang Chengkai
+- Ran Liu
+- Chengkai Wang
 - admin
-- Wu Zerui
+- Zerui Wu
 
 date: "2023-09-01T00:00:00Z"
 #doi: ""
