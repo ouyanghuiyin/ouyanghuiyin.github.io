@@ -2,7 +2,7 @@
 title: MsBA7004 Operations Analytics
 summary: This course introduces the concepts of operations management and the application of analytic techniques in solving problems an organization faces in its operations..
 
-date: '2023-09-01'
+date: '2018-12-01'
 
 
 ---
