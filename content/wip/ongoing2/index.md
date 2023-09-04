@@ -3,11 +3,11 @@ title: "Simulation Analytics for Dynamic  Performances Prediction of Complicated
 authors:
 - admin
 - Barry L Nelson
-date: "2023-12-01T00:00:00Z"
+#date: "2023-12-01T00:00:00Z"
 #doi: "10.1109/WSC.2017.8247910"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2023-01-08T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: In preparation*
 #publication_short: In *2017 WSC*
 
-abstract: Simulation and simulation optimization have primarily been used for static system design problems based on long-run average performance measures. Control or policy-based optimization has been a weakness, because it requires a way to predict future behavior based on current state and time information. This work is a first step in that direction with a focus on congestion measures for queueing systems. The idea is to fit predictive models to dynamic sample paths of the system state from a detailed simulation. We propose a two-step method to dynamically predict the probability that the system state belongs to a certain subset and test the performance of this method on two examples.
+#abstract: Simulation and simulation optimization have primarily been used for static system design problems based on long-run average performance measures. Control or policy-based optimization has been a weakness, because it requires a way to predict future behavior based on current state and time information. This work is a first step in that direction with a focus on congestion measures for queueing systems. The idea is to fit predictive models to dynamic sample paths of the system state from a detailed simulation. We propose a two-step method to dynamically predict the probability that the system state belongs to a certain subset and test the performance of this method on two examples.
 
 # Summary. An optional shortened abstract.
 #summary:
