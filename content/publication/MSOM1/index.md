@@ -12,7 +12,7 @@ authors:
 # doi: "https://doi.org/10.1287/mnsc.2020.3952"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-09-01T00:00:00Z"
+publishDate: "2023-05-01T00:00:00Z"
 date: "2023-09-01T00:00:00Z"
 
 # Publication type.
