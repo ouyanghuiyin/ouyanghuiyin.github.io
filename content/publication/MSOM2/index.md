@@ -9,8 +9,8 @@ authors:
 # doi: "https://doi.org/10.1287/mnsc.2020.3952"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-19T00:00:00Z"
-#date: "2023-01-28T00:00:00Z"
+publishDate: "2023-09-06T00:00:00Z"
+#date: "2023-05-19T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
