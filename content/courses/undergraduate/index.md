@@ -4,7 +4,7 @@ summary: This course introduces the basic concepts in quantitative business anal
 tags:
 - ug
 
-date: '2021-09-01'
+date: '2018-09-01'
 
 #image:
 #  caption: ""
