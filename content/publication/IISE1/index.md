@@ -20,7 +20,7 @@ publishDate: "2023-09-06T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under 2nd round review at *IISE Transactions*"
+publication: "Accepted by *IISE Transactions*"
 #publication_short: Accepted by *AJEM*
 
 abstract: ""
