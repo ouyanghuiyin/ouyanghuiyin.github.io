@@ -9,11 +9,11 @@ authors:
 - Timothy Rainer
 
 
-# doi: "https://doi.org/10.1287/mnsc.2020.3952"
+doi: "https://doi.org/10.1287/msom.2022.0457"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-01T00:00:00Z"
-date: "2023-09-01T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,8 +22,8 @@ date: "2023-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted by *MSOM*"
-publication_short: ""
+publication: "*Manufacturing & Service Operations Management*"
+publication_short: "*MSOM*"
 
 abstract: "<p><strong>Problem definition</strong>: Emergency department (ED) delay announcement systems are implemented in many countries. We answer three important questions pertaining to the operations and effectiveness of such systems by studying the public hospital network and ED waiting time (WT) announcement system in Hong Kong SAR’s ‘universal’ public healthcare system: (1) How many patients are aware of (and sensitive to) the ED WT announcements? (2) How sensitive are these patients to the announced WT? (3) How can the Hong Kong government improve the WT announcement system?
 
