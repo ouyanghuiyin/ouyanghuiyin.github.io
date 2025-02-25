@@ -1,63 +1,107 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# Hugo Configuration
+# Documentation: https://gohugo.io/getting-started/configuration/
+# Wowchemy Guide: https://wowchemy.com/docs/getting-started/
 
-title: Huiyin Ouyang (歐阳會銀) # Website name
-baseurl: 'https://ouyanghuiyin.github.io/' # Website URL
-copyright: '© {year} Huiyin Ouyang' # Footer text, e.g. '© {year} Me'
+title: Huiyin Ouyang (歐阳會銀) # Website title
+baseURL: 'https://ouyanghuiyin.github.io/' # Website URL
+copyright: '© {year} Huiyin Ouyang' # Footer copyright
 
 ############################
-## LANGUAGE
+# LANGUAGE SETTINGS
 ############################
-
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
-## MODULES
+# MODULES
 ############################
-
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
 
 ############################
-## ADVANCED
+# APPEARANCE SETTINGS
 ############################
+# Theme settings for a professional academic look
+theme: light # Options: light, dark, auto
+palette:
+  primary: "#006747" # HKU green
+  secondary: "#CBA135" # HKU gold
+  neutral: "#333333" # Neutral dark for text
+  background: "#ffffff" # White background for a clean look
+  surface: "#f8f9fa" # Light gray for cards and surfaces
+  warning: "#ffcc00" # Optional, for highlights
+  success: "#006747" # Match HKU green
+  error: "#ff0000" # Red for errors
+font:
+  body: "Roboto, sans-serif" # Clean sans-serif font
+  heading: "Merriweather, serif" # Serif font for headings
+  code: "Courier, monospace"
 
-enableGitInfo: false
-summaryLength: 30
-paginate: 10
-enableEmoji: true
-enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+############################
+# SITE SETTINGS
+############################
+paginate: 10 # Number of items per page
+summaryLength: 30 # Word count for content summaries
+enableEmoji: true # Enable emoji support
+enableRobotsTXT: true # Generate robots.txt
+ignoreFiles: 
+  - \.ipynb$
+  - .ipynb_checkpoints$
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+
+############################
+# URL STRUCTURE
+############################
 permalinks:
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-disableAliases: true
+
+disableAliases: true # Disable alias redirects
+
+############################
+# OUTPUT FORMATS
+############################
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [HTML, RSS]
+  home: 
+    - HTML
+    - RSS
+    - JSON
+    - WebAppManifest
+    - headers
+    - redirects
+  section: 
+    - HTML
+    - RSS
+
+############################
+# IMAGE PROCESSING
+############################
 imaging:
-  resampleFilter: lanczos
-  quality: 75
-  anchor: smart
-timeout: 600000
+  resampleFilter: lanczos # High-quality resampling
+  quality: 75 # Default image quality
+  anchor: smart # Crop intelligently
+
+############################
+# TAXONOMIES
+############################
 taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
   author: authors
-markup:
-  _merge: deep
-related:
+
+############################
+# CONTENT SETTINGS
+############################
+related: # Related content configuration
   threshold: 80
   includeNewer: true
   toLower: true
@@ -66,3 +110,7 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+markup:
+  _merge: deep # Merge markup settings
+timeout: 600000 # Rendering timeout in ms
