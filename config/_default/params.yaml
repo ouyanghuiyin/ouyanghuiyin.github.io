@@ -1,26 +1,22 @@
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 ###########################
 # Appearance
 ###########################
 
-theme: my_theme # Replace with your theme name, if applicable
-day_night: true # Enable day/night mode toggle
-font: 'native' # Font type (options: 'native', 'serif', 'sans-serif', or custom font family)
-font_size: M # Font size (options: XS, S, M, L, XL)
+theme: my_theme
+day_night: true
+font: 'native'
+font_size: M
 
 ###########################
 # SEO
 ###########################
 
-site_type: Person # Options: 'Person', 'Organization', 'Website', etc.
-local_business_type: '' # Specify business type if applicable
-org_name: '' # Organization name
-description: '' # Short description of your website
-twitter: '' # Your Twitter handle (e.g., '@example'), if applicable
+site_type: Person
+description: ''
+twitter: ''
 
 ###########################
 # Contact Information
@@ -33,86 +29,59 @@ address:
   city: Pok Fo Lam
   region: Hong Kong
   country: Hong Kong
-  country_code: HK
 coordinates:
   latitude: '22.2835'
   longitude: '114.1391'
-# Uncomment and edit the following fields if needed:
-# directions: ''
-# office_hours:
-#   - 'Monday 10:00 to 13:00'
-#   - 'Wednesday 09:00 to 10:00'
-# appointment_url: ''
-
-contact_links:
-# Uncomment and customize links as required:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/yourusername'
-#  - icon: skype
-#    icon_pack: fab
-#    name: Skype Me
-#    link: 'skype:echo123?call'
-#  - icon: keybase
-#    icon_pack: fab
-#    name: Chat on Keybase
-#    link: 'https://keybase.io/yourusername'
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
 
 ###########################
 # Site Header
 ###########################
 
 main_menu:
-  enable: true # Enable the navigation menu
-  align: l # Menu alignment (options: 'l', 'c', 'r' for left, center, right)
-  show_logo: true # Show site logo in the menu
-  show_language: false # Enable/disable language selector
-  show_day_night: true # Show day/night toggle in the menu
-  show_search: false # Enable/disable search bar
-  highlight_active_link: true # Highlight the active link in the menu
-
-###########################
-# Localization
-###########################
-
-date_format: 'Jan 2, 2006' # Date format
-time_format: '3:04 PM' # Time format
-address_format: en-us # Address format (e.g., 'en-us', 'fr-fr')
+  enable: true
+  align: l
+  show_logo: true
+  show_day_night: true
 
 ###########################
 # Site Features
 ###########################
 
-highlight: true # Enable syntax highlighting
-highlight_languages: # List programming languages to highlight
+highlight: true
+highlight_languages:
   - r
-math: true # Enable LaTeX math rendering
-diagram: false # Enable diagram support (e.g., Mermaid.js)
-privacy_pack: false # Enable privacy pack
-edit_page:
-  repo_url: '' # Repository URL for editing content
-  content_dir: '' # Directory for editable content
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true # Show estimated reading time for posts
-section_pager: false # Disable pagination for sections
-docs_section_pager: true # Enable pagination for docs sections
-sharing: true # Enable social sharing buttons
-copyright_license:
-  enable: false # Enable copyright notice
-  allow_derivatives
+math: true
+reading_time: true
+abstract_length: 135
+sharing: true
+
+###########################
+# Publications & Projects
+###########################
+
+publications:
+  date_format: January 2006
+  citation_style: mla
+projects:
+  post_view: 2
+
+###########################
+# Comments
+###########################
+
+comments:
+  provider: ''
+
+###########################
+# Search
+###########################
+
+search:
+  provider: wowchemy
+
+###########################
+# Marketing
+###########################
+
+marketing:
+  google_analytics: ''
