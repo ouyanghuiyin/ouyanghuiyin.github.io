@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd98338e-c94f-4fe8-8296-10bf5b0cc630)---
+---
 title: "Exact Algorithm and Machine Learning-Based Heuristic for the Stochastic Lot Streaming and Scheduling Problem"
 
 authors:
