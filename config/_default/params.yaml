@@ -3,86 +3,100 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+###########################
 # Appearance
+###########################
 
-theme: my_theme
-day_night: true
-font: 'native'
-font_size: M
+theme: my_theme # Replace with your theme name, if applicable
+day_night: true # Enable day/night mode toggle
+font: 'native' # Font type (options: 'native', 'serif', 'sans-serif', or custom font family)
+font_size: M # Font size (options: XS, S, M, L, XL)
 
+###########################
 # SEO
+###########################
 
-site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+site_type: Person # Options: 'Person', 'Organization', 'Website', etc.
+local_business_type: '' # Specify business type if applicable
+org_name: '' # Organization name
+description: '' # Short description of your website
+twitter: '' # Your Twitter handle (e.g., '@example'), if applicable
 
-# Contact (edit or remove options as required)
+###########################
+# Contact Information
+###########################
 
 email: oyhy@hku.hk
 phone: (+852) 3917 4221
 address:
-  street: KKL Buiding Room 1321
+  street: KKL Building Room 1321
   city: Pok Fo Lam
   region: Hong Kong
-#  postcode: '94305'
   country: Hong Kong
   country_code: HK
 coordinates:
   latitude: '22.2835'
   longitude: '114.1391'
-#directions:
-#office_hours:
-#  - 'Monday 10:00 to 13:00'
-#  - 'Wednesday 09:00 to 10:00'
-#appointment_url: 'oyhy@hku.hk'
+# Uncomment and edit the following fields if needed:
+# directions: ''
+# office_hours:
+#   - 'Monday 10:00 to 13:00'
+#   - 'Wednesday 09:00 to 10:00'
+# appointment_url: ''
+
 contact_links:
+# Uncomment and customize links as required:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: DM Me
-#    link: 'https://twitter.com/Twitter'
-#  - OCID: OCID
+#    link: 'https://twitter.com/yourusername'
+#  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
 #    link: 'skype:echo123?call'
 #  - icon: keybase
 #    icon_pack: fab
 #    name: Chat on Keybase
-#    link: 'https://keybase.io/'
+#    link: 'https://keybase.io/yourusername'
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
 #    link: 'https://discourse.gohugo.io'
 
-# Site header
+###########################
+# Site Header
+###########################
 
 main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: false
-  highlight_active_link: true
+  enable: true # Enable the navigation menu
+  align: l # Menu alignment (options: 'l', 'c', 'r' for left, center, right)
+  show_logo: true # Show site logo in the menu
+  show_language: false # Enable/disable language selector
+  show_day_night: true # Show day/night toggle in the menu
+  show_search: false # Enable/disable search bar
+  highlight_active_link: true # Highlight the active link in the menu
 
+###########################
 # Localization
+###########################
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+date_format: 'Jan 2, 2006' # Date format
+time_format: '3:04 PM' # Time format
+address_format: en-us # Address format (e.g., 'en-us', 'fr-fr')
 
-# Site features
+###########################
+# Site Features
+###########################
 
-highlight: true
-highlight_languages:
+highlight: true # Enable syntax highlighting
+highlight_languages: # List programming languages to highlight
   - r
-math: true
-diagram: false
-privacy_pack: false
+math: true # Enable LaTeX math rendering
+diagram: false # Enable diagram support (e.g., Mermaid.js)
+privacy_pack: false # Enable privacy pack
 edit_page:
-  repo_url: ''
-  content_dir: ''
+  repo_url: '' # Repository URL for editing content
+  content_dir: '' # Directory for editable content
   repo_branch: main
   editable:
     page: false
@@ -95,64 +109,10 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
+reading_time: true # Show estimated reading time for posts
+section_pager: false # Disable pagination for sections
+docs_section_pager: true # Enable pagination for docs sections
+sharing: true # Enable social sharing buttons
 copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: mla
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+  enable: false # Enable copyright notice
+  allow_derivatives
