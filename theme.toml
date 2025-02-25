@@ -1,50 +1,51 @@
-name = "Academic"
+name = "Academic CV"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-hugo-academic/blob/master/LICENSE.md"
-description = "Use the website builder to easily build your site with 50+ widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
-homepage = "https://github.com/wowchemy/starter-hugo-academic/"
+description = "Build a professional academic résumé or personal website with ease. Fully customizable with 50+ widgets, multilingual support, and a research publication system."
+homepage = "https://github.com/HugoBlox/theme-academic-cv"
 demosite = "https://wowchemy.com/templates/"
 min_version = "0.84"
-tags = ["widgets",
-        "resume",
-        "portfolio",
-        "responsive",
-        "clean",
-        "personal",
-        "company",
-        "blog",
-        "minimal",
-        "light",
-        "dark",
-        "multilingual",
-        "documentation",
-        "landing page",
-        "projects",
-        "single page",
-        "contact form",
-        "mobile",
-        "gallery",
-        "search",
-        "presentation",
-        "simple",
-        "minimalist",
-        "starter",
-        "modern",
-        "one page",
-        "customizable",
-        "technical",
-        "product",
-        "slide"
-        ]
-features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+tags = [
+    "academic",
+    "resume",
+    "portfolio",
+    "research",
+    "publications",
+    "responsive",
+    "clean",
+    "minimal",
+    "landing page",
+    "projects",
+    "blog",
+    "contact form",
+    "gallery",
+    "modern",
+    "customizable",
+    "technical"
+]
+features = [
+    "page builder",
+    "widgets",
+    "research publication system",
+    "filterable portfolio",
+    "talks",
+    "events",
+    "slides",
+    "gallery",
+    "contact form",
+    "multilingual support",
+    "blog",
+    "create courses",
+    "dark mode",
+    "light mode"
+]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Geo Cushen"
+  homepage = "https://geocushen.com"
 
 # If porting an existing theme
 [original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Wowchemy Academic Starter"
+  homepage = "https://github.com/wowchemy/starter-hugo-academic/"
+  repo = "https://github.com/wowchemy/starter-hugo-academic"
