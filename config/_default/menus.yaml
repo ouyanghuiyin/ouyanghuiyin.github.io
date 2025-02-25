@@ -1,39 +1,42 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
+# Navigation Links Configuration
+# Customize the navigation bar for your website.
+# - To link a homepage widget, use a hash `#` followed by the widget's filename in your `content/home/` folder.
+# - The `weight` parameter defines the order of the links (lower weights appear first).
 
 main:
-
-
+  # Home
   - name: Home
-    url: '#about'
+    url: '#about' # Link to the "About" widget on the homepage
     weight: 10
 
+  # Publications
   - name: Publications
-    url: '#publications'
+    url: '#publications' # Link to the "Publications" widget
     weight: 20
 
-  - name: Working papers
-    url: '#wip'
+  # Working Papers
+  - name: Working Papers
+    url: '#wip' # Link to the "Working Papers" widget
     weight: 30
 
-  - name: Projects
-    url: '#projects2'
-    weight: 50
-
+  # Teaching
   - name: Teaching
-    url: '#courses'
+    url: '#courses' # Link to the "Teaching" widget
     weight: 40
 
+  # Projects
+  - name: Projects
+    url: '#projects2' # Link to the "Projects" widget
+    weight: 50
+
+  # Contact
   - name: Contact
-    url: '#contact'
+    url: '#contact' # Link to the "Contact" widget
     weight: 60
 
- # Position of the link in the navigation bar.
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  # CV (Uncomment to enable)
+  # Uncomment the following lines to add a link to your resume or CV in PDF format.
+  # Ensure your resume/CV is uploaded to `static/uploads/resume.pdf`.
+  # - name: CV
+  #   url: uploads/resume.pdf # Path to your resume/CV
+  #   weight: 70
