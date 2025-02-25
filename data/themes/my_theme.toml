@@ -1,25 +1,34 @@
-# Theme metadata
+# Theme Metadata
 name = "Earth"
 
-# Is theme light or dark?
+# Theme Style: Set to `true` for a light theme, `false` for a dark theme
 is_light = true
 
-# Primary
-primary = "#3B8BEB"
+############################
+# Color Palette
+############################
 
-# Menu
-menu_primary = "#3B8BEB"
-menu_text = "#000"
-menu_text_active = "FEFCFF"
-menu_title = "#FEFCFF"
+# Primary color: Used for highlights, buttons, and active elements
+primary = "#3B8BEB" # Blue for a professional and calming tone
 
-# Links
-link = "#3B8BEB"
-link_hover = "#008080"
-link_decoration = "underline"
+# Menu Colors
+menu_primary = "#3B8BEB"       # Menu background color
+menu_text = "#000000"          # Menu text color
+menu_text_active = "#FEFCFF"   # Menu text color when active
+menu_title = "#FEFCFF"         # Menu title text color
 
-# Home sections
-home_section_odd = "#FEFCFF"
-home_section_even = "#ffffff"
+# Link Colors
+link = "#3B8BEB"               # Default color for links
+link_hover = "#008080"         # Hover color for links (teal for contrast)
+link_decoration = "underline"  # Underline links for better accessibility
 
-font = "rose"
+# Home Section Backgrounds
+home_section_odd = "#FEFCFF"   # Background color for odd-numbered sections
+home_section_even = "#FFFFFF"  # Background color for even-numbered sections
+
+############################
+# Font Settings
+############################
+
+# Font family name (should match a font available in your theme or CSS)
+font = "rose" # Customize with a professional font like 'serif', 'sans-serif', or specific font families
