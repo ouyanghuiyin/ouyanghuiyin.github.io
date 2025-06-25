@@ -4,7 +4,7 @@ title: "Exact Algorithm and Machine Learning-Based Heuristic for the Stochastic 
 authors:
 - Ran Liu
 - Chengkai Wang
-- Huiyin Ouyang
+- admin
 - Zerui Wu
 
 # Publication date
