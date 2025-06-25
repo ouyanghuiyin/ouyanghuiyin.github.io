@@ -3,7 +3,7 @@ title: "Service-Level Computation in Time-Varying Queueing System with Prioritie
 
 authors:
 - Ran Liu
-- Haoxiang Ouyang
+- admin
 - Chengkai Wang
 - Xiaolei Xie
 
