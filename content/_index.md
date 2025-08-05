@@ -61,11 +61,12 @@ sections:
   - block: markdown
     content:
       title: 'Contact Me'
-      text: |-
-      📧 Email: [oyhy@hku.hk](mailto:oyhy@hku.hk)  
-      🌐 Website: [https://www.hkubs.hku.hk/people/huiyin-ouyang/](https://www.hkubs.hku.hk/people/huiyin-ouyang/) 
-      🗺️ Location: Room 1321, KKL Building, HKU, Hong Kong
-  
+      subtitle: 'Let’s connect!'
+      text: |
+        - 📧 **Email:** [oyhy@hku.hk](mailto:oyhy@hku.hk)  
+        - 🌐 **Website:** [HKU Profile](https://www.hkubs.hku.hk/people/huiyin-ouyang/)  
+        - 🗺️ **Location:** Room 1321, KKL Building, HKU, Hong Kong 
+    
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
