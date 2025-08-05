@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Funded Projects
+      title:  
       text: 
       filters:
         folders:

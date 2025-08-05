@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: ''
 summary: My courses
 type: landing
 
@@ -19,5 +19,5 @@ sections:
           - teaching
     design:
       view: article-grid
-      columns: 2
+      columns: 1
 ---
