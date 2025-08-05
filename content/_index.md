@@ -38,7 +38,7 @@ sections:
 
         I integrate operations research, data analytics, and simulation-based methods to address real-world challenges in healthcare and beyond. My work spans topics such as ICU bed allocation, emergency department staffing, and physician scheduling, aiming to improve system efficiency and patient outcomes in high-stakes environments. My research has been published in leading journals like Operations Research, Management Science, and MSOM. Beyond academia, I actively collaborate with hospitals and industry partners to translate my findings into impactful, data-driven solutions.
 
-        Feel free to reach out if you're interested in collaborating on research, applying analytics in healthcare, or exploring innovative solutions for operational challenges.😃
+        Feel free to reach out if you're interested in collaborating on research, applying analytics in healthcare, or exploring innovative solutions for operational challenges.
     design:
       columns: '1'
   - block: collection
@@ -47,10 +47,16 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+         - publication
         featured_only: true  
     design:
-      view: citation
+      view: card
+      card:
+       css_class: "hover:shadow-lg"
+       layout: "2-columns"
+      button:
+        text: View All Publications
+        url: /publications/
   
   - block: markdown
     content:
