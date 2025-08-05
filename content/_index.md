@@ -28,9 +28,10 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'About me'
       subtitle: ''
       text: |-
         I am an Associate Professor at the Faculty of Business and Economics, The University of Hong Kong. My research focuses on healthcare operations, stochastic modeling, and decision-making under uncertainty, with a particular emphasis on optimizing resource allocation in critical care and emergency settings.
@@ -58,16 +59,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  
   
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
