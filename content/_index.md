@@ -19,12 +19,12 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: "#1a1a1a"
         image:
           # Add your image background to `assets/media/`.
           filename: black-rain.jpeg
           filters:
-            brightness: 1.0
+            brightness: 0.8
           size: cover
           position: center
           parallax: false
@@ -52,6 +52,13 @@ sections:
     design:
       view: citation
   
+  - block: markdown
+    content:
+      title: 'Contact Me'
+      text: |-
+      📧 Email: [oyhy@hku.hk](mailto:oyhy@hku.hk)  
+      🌐 Website: [https://www.hkubs.hku.hk/people/huiyin-ouyang/](https://www.hkubs.hku.hk/people/huiyin-ouyang/) 
+      🗺️ Location: Room 1321, KKL Building, HKU, Hong Kong
   
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
