@@ -7,9 +7,9 @@ authors:
   - admin
 date: 2025-05-21
 doi: "10.1016/j.ejor.2025.05.035"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*European Journal of Operational Research*"
-url_pdf: "https://www.sciencedirect.com/science/article/pii/S0377221725004199"
+
 tags:
   - Emergency departments
   - Machine learning

@@ -6,9 +6,9 @@ authors:
   - Serhan Ziya
 date: 2022-02-16
 doi: "10.1287/mnsc.2020.3952"
-publication_types: ["2"]
+publication_types: ["article-journal"]
 publication: "*Management Science*, Volume 68, Issue 2, Pages 1233–1255"
-url_pdf: "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3952"
+
 featured: true
 tags:
   - Priority queues

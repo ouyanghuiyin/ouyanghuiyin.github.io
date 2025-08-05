@@ -6,7 +6,7 @@ authors:
   - Zhankun Sun
 date: 2025-08-04
 doi: ""
-publication_types: ["2"]
+publication_types: ["article"]
 publication: "*Manufacturing & Service Operations Management* under revision"
 url_pdf: " "
 featured: true
