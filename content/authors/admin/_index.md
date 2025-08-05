@@ -79,7 +79,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2016-07-01
-    date_end: '2017-6-30'
+    date_end: '2017-06-30'
     summary: ''
 
 # Skills
