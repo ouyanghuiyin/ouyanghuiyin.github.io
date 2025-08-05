@@ -7,14 +7,20 @@ main:
   - name: Bio
     url: /
     weight: 10
-    
-  - name: Publication
-    url: publication/
-    weight: 11
   
   - name: Experience
     url: experience/
-    weight: 20
+    weight: 11 
+  
+ 
+  - name: Publication
+    url: publication/
+    weight: 12
+  
+  - name: Ongoing Research
+    url: wip/
+    weight: 13
+
 
   - name: Projects
     url: projects/
