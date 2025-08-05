@@ -12,6 +12,7 @@ doi: "10.1287/msom.2022.0457"
 publication_types: ["2"]
 publication: "*Manufacturing & Service Operations Management*"
 url_pdf: "https://pubsonline.informs.org/doi/full/10.1287/msom.2022.0457"
+featured: true
 tags:
   - Emergency departments
   - Waiting time
