@@ -11,7 +11,7 @@ date: 2023-12-20
 doi: "10.1287/msom.2022.0457"
 publication_types: ["article-journal"]
 publication: "*Manufacturing & Service Operations Management*"
-
+featured: true
 tags:
   - Emergency departments
   - Waiting time

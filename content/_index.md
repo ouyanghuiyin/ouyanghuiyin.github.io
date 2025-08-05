@@ -31,7 +31,7 @@ sections:
 
   - block: markdown
     content:
-      title: 'About me'
+      title: ''
       subtitle: ''
       text: |-
         I am an Associate Professor at the Faculty of Business and Economics, The University of Hong Kong. My research focuses on healthcare operations, stochastic modeling, and decision-making under uncertainty, with a particular emphasis on optimizing resource allocation in critical care and emergency settings.
