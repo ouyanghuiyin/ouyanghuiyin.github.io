@@ -1,5 +1,5 @@
 ---
-title: Ongoing Work
+title: ''
 cms_exclude: true
 
 # View.
