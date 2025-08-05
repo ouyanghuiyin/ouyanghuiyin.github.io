@@ -1,7 +1,7 @@
 ---
 title: "Allocation of Intensive Care Unit Beds in Periods of High Demand"
 authors:
-  - Huiyin Ouyang
+  - admin
   - Nilay Tanık Argon
   - Serhan Ziya
 date: 2020-03-20

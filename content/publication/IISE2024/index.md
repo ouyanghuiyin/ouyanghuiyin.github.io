@@ -3,7 +3,7 @@ title: "Exact Algorithm and Machine Learning-Based Heuristic for Stochastic Lot 
 authors:
   - Ran Liu
   - Chengkai Wang
-  - Huiyin Ouyang
+  - admin
   - Zerui Wu
 date: 2025-04-03
 doi: "10.1080/24725854.2023.2294816"

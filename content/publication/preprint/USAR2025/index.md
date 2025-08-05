@@ -1,20 +1,18 @@
 ---
-title: "Patient Sensitivity to Emergency Department Waiting Time Announcements"
+title: "Dynamic Resource Allocation in Urban Search and Rescue Operations"
 authors:
-  - Eric Park
   - admin
-  - Jingqi Wang
-  - Sergei Savin
-  - Siu Chung Leung
-  - Timothy H. Rainer
-date: 2023-12-20
-doi: "10.1287/msom.2022.0457"
-publication_types: ["2"]
-publication: "*Manufacturing & Service Operations Management*"
-url_pdf: "https://pubsonline.informs.org/doi/full/10.1287/msom.2022.0457"
+  - Zheqi Zhang
+  - Nilay Argon
+  - Serhan Ziya
+date: 2025-08-04
+doi: ""
+publication_types: ["article"]
+publication: "In preparation"
+url_pdf: ""
 tags:
-  - Emergency departments
-  - Waiting time
-  - Behavioral operations
-  - Public policy
+  - Resource allocation
+  - Dynamic programming
+  - Disaster management
+
 ---
