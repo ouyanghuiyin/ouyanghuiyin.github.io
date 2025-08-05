@@ -1,11 +1,11 @@
 ---
-title: "PI: Investigation of Time-dependent Physician Productivity and Application in Emergency Department Waiting Time Management 2023 - 2025"
+title: "PI: Decision-Making Under Uncertainty: A Framework for Intensive Care Unit Admission Control with Predictive Information 2026 - 2028"
 
-summary: Hong Kong Research Grants Council General Research Fund  (GRF) 	17501022
+summary: Hong Kong Research Grants Council General Research Fund  (GRF) 	17501925
 tags:
 - healthcare
 
-date: '2023-01-01'
+date: '2025-07-01'
 
 image:
   caption: ""
