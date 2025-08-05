@@ -8,7 +8,7 @@ authors:
 date: 2025-08-04
 doi: ""
 publication_types: ["article"]
-publication: "In preparation"
+publication: "*Journal of the American Medical Informatics Association* under revision"
 url_pdf: ""
 tags:
   - Health information system
