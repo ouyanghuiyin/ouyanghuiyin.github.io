@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "Huiyin Ouyang"
+date: 2025-08-04
 type: landing
 
 design:
@@ -15,16 +15,14 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: star-background.jpg
           filters:
             brightness: 1.0
           size: cover
@@ -35,11 +33,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am an Associate Professor at the Faculty of Business and Economics, The University of Hong Kong. My research focuses on healthcare operations, stochastic modeling, and decision-making under uncertainty, with a particular emphasis on optimizing resource allocation in critical care and emergency settings.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I integrate operations research, data analytics, and simulation-based methods to address real-world challenges in healthcare and beyond. My work spans topics such as ICU bed allocation, emergency department staffing, and physician scheduling, aiming to improve system efficiency and patient outcomes in high-stakes environments.
+
+        My research has been published in leading journals like Operations Research, Management Science, and MSOM. Beyond academia, I actively collaborate with hospitals and industry partners to translate my findings into impactful, data-driven solutions.
+
+        Feel free to reach out if you're interested in collaborating on research, applying analytics in healthcare, or exploring innovative solutions for operational challenges.😃
     design:
       columns: '1'
   - block: collection
