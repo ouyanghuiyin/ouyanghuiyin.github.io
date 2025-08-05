@@ -3,7 +3,7 @@ title: "Simulation-based Predictive Analytics for Dynamic Queueing Systems"
 authors:
   - admin
   - Barry L. Nelson
-date: 2017-12
+date: 2017-12-01
 doi: 10.1109/WSC.2017.8247910
 publication_types: ["2"] # "2" indicates an inproceedings publication
 publication: "In *2017 Winter Simulation Conference (WSC)*, pp. 1716–1727"

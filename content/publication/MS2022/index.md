@@ -4,7 +4,7 @@ authors:
   - admin
   - Nilay Tanık Argon
   - Serhan Ziya
-date: 2022-02
+date: 2022-02-16
 doi: "10.1287/mnsc.2020.3952"
 publication_types: ["2"]
 publication: "*Management Science*, Volume 68, Issue 2, Pages 1233–1255"

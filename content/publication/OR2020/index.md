@@ -4,7 +4,7 @@ authors:
   - Huiyin Ouyang
   - Nilay Tanık Argon
   - Serhan Ziya
-date: 2020-03
+date: 2020-03-20
 doi: "10.1287/opre.2019.1876"
 publication_types: ["2"]
 publication: "*Operations Research*, Volume 68, Issue 2, Pages 591–608"
