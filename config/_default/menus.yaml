@@ -13,11 +13,11 @@ main:
     weight: 11 
   
  
-  - name: Publication
+  - name: Publications
     url: publication/
     weight: 12
   
-  - name: Ongoing Research
+  - name: Ongoing Work
     url: wip/
     weight: 13
 

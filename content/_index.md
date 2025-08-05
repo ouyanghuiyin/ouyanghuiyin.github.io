@@ -22,7 +22,7 @@ sections:
         color: "#1a1a1a"
         image:
           # Add your image background to `assets/media/`.
-          filename: star-background.jpg
+          filename: black-rain.jpeg
           filters:
             brightness: 0.8
           size: cover
