@@ -43,7 +43,7 @@ sections:
       columns: '1'
   
   - block: collection
-    id: papers
+    id: featured-publications
     content:
       title: Featured Publications
       filters:
@@ -52,23 +52,9 @@ sections:
         featured_only: true
     design:
       view: citation
-    card:
-      css_class: "hover:shadow-lg"
-      layout: "2-columns"
     button:
       text: View All Publications
       url: /publications/
-    
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
   
   - block: markdown
     content:
