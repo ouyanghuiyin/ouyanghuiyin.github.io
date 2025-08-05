@@ -48,15 +48,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+        featured_only: true  
     design:
       view: citation
   

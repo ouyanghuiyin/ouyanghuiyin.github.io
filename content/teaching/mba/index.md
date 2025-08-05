@@ -2,6 +2,9 @@
 title: MBA6101 Operations Analytics
 summary: This course introduces the concepts of operations management and the application of analytic techniques in solving problems an organization faces in its operations..
 
+tags:
+- mba
+
 date: '2024-06-01'
 
 

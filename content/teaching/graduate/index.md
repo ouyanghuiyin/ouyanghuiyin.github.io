@@ -2,6 +2,9 @@
 title: MSBA7014 Business Simulation
 summary: This course introduces simulation modeling to analyze business processes and solve practical problems.
 
+tags:
+- tpg
+
 date: '2021-09-01'
 
 

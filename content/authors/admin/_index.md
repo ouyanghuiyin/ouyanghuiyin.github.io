@@ -1,17 +1,16 @@
 ---
 # Display name
 title: Huiyin Ouyang
+#歐陽會銀
 
 # Name pronunciation (optional)
-name_pronunciation: 歐陽會銀
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Huiyin
 last_name: Ouyang
 
 # Status emoji
-status:
-  icon: 🎆
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,7 +41,7 @@ interests:
   - Stochastic Modeling and Analysis
   - Healthcare Operations
   - Data-driven Decision Making
-  - Simulation
+  - Simulation Analytics
 
 education:
   - area: PhD Statistics and Operations Research
@@ -113,5 +112,6 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 ## About Me
-#Huiyin Ouyang is an associate professor of operations management at HKU Business School.
+#
 ---
+Huiyin Ouyang is an associate professor of operations management at HKU Business School.
