@@ -7,6 +7,68 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% assign ug_posts = site.teaching | where_exp: "post", "post.type contains 'Undergraduate'" | sort: 'date' | reverse %}
+{% assign tpg_posts = site.teaching | where_exp: "post", "post.type contains 'TPG'" | sort: 'date' | reverse %}
+{% assign mba_posts = site.teaching | where_exp: "post", "post.type contains 'MBA'" | sort: 'date' | reverse %}
+
+<h2 class="teaching-section">Undergraduate</h2>
+<ul class="teaching-list">
+{% for post in ug_posts %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}" class="teaching-title">{{ post.title }}</a><br>
+    <span class="teaching-venue">{{ post.venue }}</span>
+  </li>
 {% endfor %}
+</ul>
+
+<h2 class="teaching-section">TPG</h2>
+<ul class="teaching-list">
+{% for post in tpg_posts %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}" class="teaching-title">{{ post.title }}</a><br>
+    <span class="teaching-venue">{{ post.venue }}</span>
+  </li>
+{% endfor %}
+</ul>
+
+<h2 class="teaching-section">MBA</h2>
+<ul class="teaching-list">
+{% for post in mba_posts %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}" class="teaching-title">{{ post.title }}</a><br>
+    <span class="teaching-venue">{{ post.venue }}</span>
+  </li>
+{% endfor %}
+</ul>
+
+<style>
+.teaching-section {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+.teaching-list {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+.teaching-list li {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.teaching-title {
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 1rem;
+}
+.teaching-title:hover {
+  text-decoration: underline;
+}
+.teaching-venue {
+  color: inherit;
+  font-size: 1rem;
+}
+</style>

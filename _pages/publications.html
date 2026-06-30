@@ -15,7 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   <li>
     <a href="{{ base_path }}{{ post.url }}" class="pub-title">{{ post.title }}</a><br>
-    <span class="pub-authors">{{ post.authors | replace: 'H Ouyang', '<u><i>H Ouyang</i></u>' | replace: 'Huiyin Ouyang', '<u><i>Huiyin Ouyang</i></u>' }}</span><br>
+    <span class="pub-authors">{{ post.authors | replace: 'H Ouyang', '<i>H Ouyang</i>' | replace: 'Huiyin Ouyang', '<i>Huiyin Ouyang</i>' }}</span><br>
     <span class="pub-venue">{{ post.venue }}</span>
   </li>
 {% endfor %}

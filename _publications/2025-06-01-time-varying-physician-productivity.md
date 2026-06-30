@@ -1,6 +1,6 @@
 ---
 title: "Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing"
-authors: "H Ouyang, R Liu, Z Sun"
+authors: "Z Sun, R Liu, H Ouyang"
 collection: publications
 category: manuscripts
 permalink: /publication/time-varying-physician-productivity/

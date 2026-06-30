@@ -7,19 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-<ol class="pub-list">
+<ul class="pub-list">
 {% for post in site.working_papers reversed %}
   <li>
     <a href="{{ base_path }}{{ post.url }}" class="pub-title">{{ post.title }}</a><br>
-    <span class="pub-authors">{{ post.authors | replace: 'H Ouyang', '<u><i>H Ouyang</i></u>' | replace: 'Huiyin Ouyang', '<u><i>Huiyin Ouyang</i></u>' }}</span><br>
-    <span class="pub-venue">{{ post.venue }}</span>
+    <span class="pub-authors">{{ post.authors | replace: 'H Ouyang', '<i>H Ouyang</i>' | replace: 'Huiyin Ouyang', '<i>Huiyin Ouyang</i>' }}</span>
   </li>
 {% endfor %}
-</ol>
+</ul>
 
 <style>
 .pub-list {
-  list-style-type: decimal;
+  list-style-type: disc;
   padding-left: 1.5rem;
   margin-top: 1.5rem;
 }
