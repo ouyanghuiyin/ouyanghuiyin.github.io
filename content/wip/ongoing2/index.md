@@ -1,5 +1,5 @@
 ---
-title: "Simulation Analytics for Dynamic  Performances Prediction of Complicated Queueing Systems"
+title: "Simulation Analytics for Dynamic Performance Prediction of Complex Queueing Systems"
 authors:
 - admin
 - Barry L Nelson
@@ -16,13 +16,13 @@ publishDate: "2023-09-04T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation*
+publication: "*In preparation*"
 #publication_short: In *2017 WSC*
 
-#abstract: Simulation and simulation optimization have primarily been used for static system design problems based on long-run average performance measures. Control or policy-based optimization has been a weakness, because it requires a way to predict future behavior based on current state and time information. This work is a first step in that direction with a focus on congestion measures for queueing systems. The idea is to fit predictive models to dynamic sample paths of the system state from a detailed simulation. We propose a two-step method to dynamically predict the probability that the system state belongs to a certain subset and test the performance of this method on two examples.
+abstract: We develop data-driven methods to predict dynamic congestion measures in complex queueing systems using sample paths from detailed simulations.
 
 # Summary. An optional shortened abstract.
-#summary:
+summary: Dynamic performance prediction for complex queueing systems using simulation analytics.
 
 #tags:
 #- Source Themes

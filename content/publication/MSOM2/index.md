@@ -16,17 +16,16 @@ publishDate: "2023-09-06T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*MSOM Under Revision*"
-publication_short: ""
+publication: "*Manufacturing & Service Operations Management* (forthcoming)"
+publication_short: "*MSOM*"
 
-#abstract: "<p><strong>Problem definition</strong>: Motivated by an intriguing observation of a time-varying pattern in physician productivity (measured by the number of new patients seen per hour, or PPH), we study a continuous-time optimal control problem to understand the transient behavior of individual physicians within their shifts in emergency departments (EDs). <strong>Methodology/results</strong>: By applying Pontryagin’s maximum principle, we characterize the optimal policy and provide insights into physician capacity, productivity, and throughput. We conclude that individual physicians’ transient behavior is intrinsic and mainly induced by shift-based scheduling. We leverage the insights from time-varying PPH to model a complex ED system as a time-varying multi-server queue with shift-hour-dependent service rates. Validated using data from two Canadian EDs, our simulation results show that our queueing model can accurately capture time-of-day-dependent patient waiting times with a simple parameter estimation procedure. In contrast, the simulated waiting times under constant service rates deviate significantly from the data. <strong>Managerial implications</strong>: Our results show that it is important to explicitly consider time-varying service rates to obtain accurate models of ED operations. The essence of our model is dimension reduction by state aggregation. As a result, the model allows for performance evaluation through the uniformization of a continuous-time Markov chain, which can be integrated with off-the-shelf algorithms for physician staffing. Our case study using data from a Canadian ED shows that the new shift schedules generated using our method can improve the current schedule in practice and result in substantial annual cost savings.</p>"
+abstract: We study physician productivity in emergency departments, which varies within shifts due to shift-based scheduling. We develop a time-varying multi-server queueing model with shift-hour-dependent service rates, validated using data from Canadian EDs. The model enables more accurate ED staffing and can be integrated with standard scheduling algorithms to improve performance and reduce costs.
 
 # Summary. An optional shortened abstract.
-# delay announcement, queueing behavior, queueing network coordination, emergency department, cost of waiting
-# summary: Time-Varying Physician Productivity
+summary: Time-varying physician productivity and ED staffing.
 
 
 

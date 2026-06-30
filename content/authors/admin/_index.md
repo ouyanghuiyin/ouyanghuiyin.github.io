@@ -6,7 +6,7 @@ title: Huiyin Ouyang
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Operations Management
+role: Associate Professor of Operations Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.fbe.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include stochastic modeling and analysis of service systems,  healthcare operations, simulation analytics, and data-driven decision making.
+bio: My research develops stochastic models and data-driven methods to improve decisions in service systems, with a focus on healthcare operations.
 
 # Interests to show in About widget
 interests:
@@ -74,4 +74,6 @@ email: "oyhy@hku.hk"
 highlight_name: true
 ---
 
-Dr. Huiyin Ouyang is an assistant professor of operations management at the HKU Business School. Her research interests include stochastic modeling and analysis of service systems, healthcare operations, simulation analytics, and data-drive decision making. Before joining HKU, she worked as a postdoc researcher at Department of Industrial Engineering and Management Sciences, Northwestern University.
+I am an Associate Professor of Operations Management at HKU Business School. My research develops stochastic models and data-driven methods to improve decisions in service systems, with a focus on healthcare operations: emergency-department flow, ICU bed allocation, physician scheduling, and patient delay announcements.
+
+Before joining HKU, I was a postdoctoral researcher at Northwestern University's Department of Industrial Engineering and Management Sciences. I received my PhD in Statistics and Operations Research from UNC Chapel Hill.

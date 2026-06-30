@@ -19,7 +19,7 @@ date: "2023-12-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Manufacturing & Service Operations Management*"
@@ -33,7 +33,7 @@ abstract: "<p><strong>Problem definition</strong>: Emergency department (ED) del
 
 # Summary. An optional shortened abstract.
 # delay announcement, queueing behavior, queueing network coordination, emergency department, cost of waiting
-summary: Patient Sensitivity to Emergency Department Waiting Time Announcements
+summary: How ED delay announcements affect patient choice and flow in Hong Kong public hospitals.
 
 
 

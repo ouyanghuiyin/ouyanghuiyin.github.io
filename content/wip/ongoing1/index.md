@@ -1,5 +1,5 @@
 ---
-title: "Priority Scheduling When Job Type Information Is Not Free. Manuscript available"
+title: "Priority Scheduling When Job Type Information Is Not Free"
 authors:
 - admin
 - Junyan Wang
@@ -21,10 +21,10 @@ publication_types: ["3"]
 publication: "*In preparation*"
 publication_short: ""
 
-abstract: 
+abstract: We study priority scheduling when classifying jobs into types is costly or imperfect, and characterize when investing in better type information improves system performance.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: Priority scheduling with costly job-type information.
 
 
 

@@ -37,7 +37,7 @@ abstract: The objective of this paper is to use mathematical modeling and analys
 # Display this page in the Featured widget?
 
 # Summary. An optional shortened abstract.
-summary: Priority assignment in an M/G/1 queue
+summary: ICU bed-allocation policies to minimize mortality when demand exceeds capacity.
 
 
 

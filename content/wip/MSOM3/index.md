@@ -27,9 +27,10 @@ publication_types: ["3"]
 publication: "*In preparation*"
 publication_short: ""
 
-abstract: 
+abstract: We model resource allocation for urban search-and-rescue operations under flooding emergencies and develop policies to improve response effectiveness.
 
 # Summary. An optional shortened abstract.
+summary: Resource allocation for urban search and rescue during flooding emergencies.
 
 
 

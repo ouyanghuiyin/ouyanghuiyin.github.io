@@ -24,9 +24,9 @@ main:
     url: '#courses' # Link to the "Teaching" widget
     weight: 40
 
-  # Projects
-  - name: Projects
-    url: '#projects2' # Link to the "Projects" widget
+  # Research Grants
+  - name: Research Grants
+    url: '#projects2' # Link to the "Research Grants" widget
     weight: 50
 
   # Contact

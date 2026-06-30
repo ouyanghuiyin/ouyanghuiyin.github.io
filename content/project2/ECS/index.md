@@ -1,5 +1,5 @@
 ---
-title: "PI: Optimal bed allocation in intensive care unit with patients health evolution and patient readmission"
+title: "Optimal ICU Bed Allocation with Patient Health Evolution and Readmission"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,7 +8,7 @@ authors:
 - admin
 
 # Summary. An optional shortened abstract.
-summary: "Early Career Scheme (ECS) 27501020, Hong Kong Research Grants Council,  2021 January - 2023 December"
+summary: "PI, Hong Kong RGC Early Career Scheme 27501020, 2021–2023"
 # Author notes (optional)
 
 
@@ -21,15 +21,13 @@ date: "2021-01-01T00:00:00Z"
 # 7 = Thesis; 8 = Patent
 
 
-abstract: ""
+abstract: We develop models and policies for allocating ICU beds when patients' health evolves over time and readmissions are possible, aiming to reduce mortality and improve throughput.
 
 # Summary. An optional shortened abstract.
 
 
 
 # Display this page in the Featured widget?
-
-
 
 
 

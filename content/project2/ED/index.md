@@ -1,5 +1,5 @@
 ---
-title: "Co-I: Impact of Emergency Department Waiting Time Announcements on Patient Behavior"
+title: "Impact of Emergency Department Waiting Time Announcements on Patient Behavior"
 authors:
 - Eric Park
 - Sik Hon Matthew Tsui
@@ -21,7 +21,7 @@ date: "2020-09-10T00:00:00Z"
 abstract:
 
 # Summary. An optional shortened abstract.
-summary: "General Research Fund  (GRF) 17502320, Hong Kong Research Grants Council, 2020 September - 2022 August"
+summary: "Co-I, Hong Kong RGC General Research Fund 17502320, 2020–2022"
 
 
 

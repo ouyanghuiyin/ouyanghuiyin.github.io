@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 45
 
-title: Projects
+title: Research Grants
 subtitle: ''
 
 content:

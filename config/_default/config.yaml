@@ -26,7 +26,8 @@ module:
 # APPEARANCE SETTINGS
 ############################
 # Theme settings for a professional academic look
-theme: light # Options: light, dark, auto
+# theme: light # Options: light, dark, auto
+# Note: Wowchemy uses module imports, not the `theme` key.
 palette:
   primary: "#006747" # HKU green
   secondary: "#CBA135" # HKU gold
