@@ -1,5 +1,6 @@
 ---
 title: "The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes"
+authors: "H Ouyang, J Wang, Z Sun, E Lang"
 collection: publications
 category: manuscripts
 permalink: /publication/impact-of-emergency-department-crowding/

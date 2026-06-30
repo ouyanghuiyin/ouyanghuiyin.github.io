@@ -1,5 +1,7 @@
 ---
 title: "On Scheduling a Two-Class Queue with Concave Waiting Cost"
+authors: "Z Sun, H Ouyang"
+venue: "Working paper"
 collection: working_papers
 date: 2021-01-01
 permalink: /working_papers/on-scheduling-a-two-class-queue/

@@ -1,5 +1,7 @@
 ---
 title: "Priority Scheduling When Job Type Information Is Not Free"
+authors: "J Wang, H Ouyang, Z Sun"
+venue: "Working paper"
 collection: working_papers
 date: 2021-01-01
 permalink: /working_papers/priority-scheduling-when-job-type-information-is-not-free/

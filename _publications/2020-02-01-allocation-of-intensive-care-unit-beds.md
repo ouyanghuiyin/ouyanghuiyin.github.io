@@ -1,5 +1,6 @@
 ---
 title: "Allocation of Intensive Care Unit Beds in Periods of High Demand"
+authors: "H Ouyang, NT Argon, S Ziya"
 collection: publications
 category: manuscripts
 permalink: /publication/allocation-of-intensive-care-unit-beds/

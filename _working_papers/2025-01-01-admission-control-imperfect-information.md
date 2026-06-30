@@ -1,5 +1,7 @@
 ---
 title: "Admission Control under Imperfect Patient Information"
+authors: "Y Luo, H Ouyang"
+venue: "Working paper"
 collection: working_papers
 date: 2025-01-01
 permalink: /working_papers/admission-control-imperfect-information/

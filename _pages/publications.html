@@ -11,26 +11,38 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ol class="pub-list">
+{% for post in site.publications reversed %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}" class="pub-title">{{ post.title }}</a><br>
+    <span class="pub-authors">{{ post.authors | replace: 'H Ouyang', '<u><i>H Ouyang</i></u>' | replace: 'Huiyin Ouyang', '<u><i>Huiyin Ouyang</i></u>' }}</span><br>
+    <span class="pub-venue">{{ post.venue }}</span>
+  </li>
+{% endfor %}
+</ol>
 
-
-
+<style>
+.pub-list {
+  list-style-type: decimal;
+  padding-left: 1.5rem;
+  margin-top: 1.5rem;
+}
+.pub-list li {
+  margin-bottom: 1.25rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.pub-title {
+  color: inherit;
+  font-weight: normal;
+  text-decoration: none;
+  font-size: 1rem;
+}
+.pub-title:hover {
+  text-decoration: underline;
+}
+.pub-authors, .pub-venue {
+  color: inherit;
+  font-size: 1rem;
+}
+</style>

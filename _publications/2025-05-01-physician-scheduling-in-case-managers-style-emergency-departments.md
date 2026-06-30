@@ -1,5 +1,6 @@
 ---
 title: "Physician Scheduling in Case Managers Style Emergency Departments: Machine Learning-Aided Solution Approaches"
+authors: "R Liu, B Zhou, S Wang, H Ouyang"
 collection: publications
 category: manuscripts
 permalink: /publication/physician-scheduling-in-case-managers-style-emergency-departments/

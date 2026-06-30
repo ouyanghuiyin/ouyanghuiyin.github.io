@@ -1,5 +1,6 @@
 ---
 title: "Prioritization in Service Systems with Nonlinear Delay Costs"
+authors: "H Ouyang"
 collection: publications
 category: manuscripts
 permalink: /publication/prioritization-in-service-systems/

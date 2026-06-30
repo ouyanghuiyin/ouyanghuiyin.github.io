@@ -1,5 +1,6 @@
 ---
 title: "Dynamic Allocation of Time-Critical Resources in Disaster Response"
+authors: "H Ouyang, Z Zhang, N Argon, S Ziya"
 collection: publications
 category: manuscripts
 permalink: /publication/dynamic-allocation-of-time-critical-resources-in-disaster-response/

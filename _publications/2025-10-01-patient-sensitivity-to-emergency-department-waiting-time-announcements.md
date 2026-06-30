@@ -1,5 +1,6 @@
 ---
 title: "Patient Sensitivity to Emergency Department Waiting Time Announcements"
+authors: "E Park, H Ouyang, J Wang, S Savin, SC Leung, T Rainer"
 collection: publications
 category: manuscripts
 permalink: /publication/patient-sensitivity-to-emergency-department-waiting-time-announcements/

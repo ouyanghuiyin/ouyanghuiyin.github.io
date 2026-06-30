@@ -1,5 +1,6 @@
 ---
 title: "Service-Level Computation in Time-Varying Queueing System with Priorities: Application to Physician Staffing in the Emergency Department"
+authors: "R Liu, H Ouyang, C Wang, X Xie"
 collection: publications
 category: manuscripts
 permalink: /publication/service-level-computation-in-time-varying-queueing-system/

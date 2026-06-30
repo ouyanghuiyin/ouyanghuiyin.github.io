@@ -1,5 +1,6 @@
 ---
 title: "Exact Algorithm and Machine Learning-Based Heuristic for the Stochastic Lot Streaming and Scheduling Problem"
+authors: "R Liu, C Wang, H Ouyang, Z Wu"
 collection: publications
 category: manuscripts
 permalink: /publication/exact-algorithm-and-machine-learning-based-heuristic/

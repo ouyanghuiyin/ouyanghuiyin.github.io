@@ -1,5 +1,6 @@
 ---
 title: "Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments"
+authors: "F Zaerpour, M Bijvank, H Ouyang, Z Sun"
 collection: publications
 category: manuscripts
 permalink: /publication/scheduling-of-physicians-with-time-varying-productivity/

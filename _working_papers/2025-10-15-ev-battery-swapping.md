@@ -1,5 +1,7 @@
 ---
 title: "Optimizing Electric Vehicle Battery Swapping Services: A Behavior Cloning-Integrated Reinforcement Learning Framework for Charging Decisions"
+authors: "Z Yan, H Ouyang"
+venue: "Working paper"
 collection: working_papers
 date: 2025-10-15
 permalink: /working_papers/ev-battery-swapping/

@@ -1,5 +1,6 @@
 ---
 title: "Assigning Priorities (or Not) in Service Systems with Nonlinear Waiting Costs"
+authors: "H Ouyang, NT Argon, S Ziya"
 collection: publications
 category: manuscripts
 permalink: /publication/assigning-priorities-in-service-systems/

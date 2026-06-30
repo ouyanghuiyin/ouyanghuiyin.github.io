@@ -1,5 +1,6 @@
 ---
 title: "Simulation-based Predictive Analytics for Dynamic Queueing Systems"
+authors: "H Ouyang, BL Nelson"
 collection: publications
 category: conferences
 permalink: /publication/simulation-based-predictive-analytics/

@@ -1,5 +1,6 @@
 ---
 title: "Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study"
+authors: "C Zou, Y Zhang, H Ouyang, Z Sun"
 collection: publications
 category: manuscripts
 permalink: /publication/impact-of-announced-wait-time-information/
