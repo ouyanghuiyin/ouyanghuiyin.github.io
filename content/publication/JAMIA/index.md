@@ -14,7 +14,7 @@ publication_types: ["2"]
 publication: "*Journal of the American Medical Informatics Association* 33 (6), 1112-1120"
 abstract: We use a data-calibrated simulation model to examine how prediction accuracy, update frequency, and patient adoption rates affect emergency-department overcrowding mitigation.
 
-summary: How announced wait time information affects ED overcrowding: a simulation study.
+summary: "How announced wait time information affects ED overcrowding: a simulation study."
 
 projects: []
 slides: ""
