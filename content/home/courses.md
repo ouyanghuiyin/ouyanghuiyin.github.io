@@ -22,18 +22,16 @@ content:
   filter_default: 0
 
   # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  #filter_button:
-  #- name: All
-  #  tag: '*'
-  #- name: Undergraduate level
-  #  tag:  "ug"
-  #- name: Graduate level
-  #  tag: "tpg"
-order: ascending
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Undergraduate
+    tag: "undergraduate"
+  - name: TPG
+    tag: "tpg"
+  - name: MBA
+    tag: "mba"
+
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -44,6 +42,8 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 2
+
+  order: desc
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
