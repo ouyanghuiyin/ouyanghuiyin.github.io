@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Research Grants
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title:  
-      text: 
+      title: Research Grants
+      text: ''
       filters:
         folders:
           - project

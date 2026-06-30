@@ -5,9 +5,10 @@ authors:
   - Yiran Zhang
   - admin
   - Zhankun Sun
-date: 2025-01-01
-publication_types: ["article"]
-publication: "Under review"
+date: 2026-03-30
+doi: "10.1093/jamia/ocag036"
+publication_types: ["article-journal"]
+publication: "*Journal of the American Medical Informatics Association* 33 (6), 1112–1120"
 abstract: "We use a data-calibrated simulation model to examine how prediction accuracy, update frequency, and patient adoption rates affect emergency-department overcrowding mitigation."
 summary: "How announced wait time information affects ED overcrowding: a simulation study."
 tags:

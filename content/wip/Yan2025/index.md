@@ -4,11 +4,10 @@ authors:
   - Zhaonian Yan
   - admin
 date: 2025-10-15
-doi: ""
 publication_types: ["article"]
-publication: "In Preparation"
-
-featured: true
+publication: "In preparation"
+abstract: "We develop a behavior-cloning-integrated reinforcement learning framework to optimize charging decisions for electric-vehicle battery swapping services."
+summary: "Reinforcement learning for electric-vehicle battery swapping charging decisions."
 tags:
   - Battery swapping stations
   - Reinforcement learning
@@ -16,4 +15,3 @@ tags:
   - Service optimization
   - Markov decision process
 ---
- 

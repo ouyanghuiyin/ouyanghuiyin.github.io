@@ -8,8 +8,9 @@ authors:
 date: 2022-01-01
 doi: "10.1016/j.ajem.2021.10.049"
 publication_types: ["article-journal"]
-publication: "*The American Journal of Emergency Medicine*, Volume 51, Pages 163–168"
-
+publication: "*American Journal of Emergency Medicine* 51, 163–168"
+abstract: "We empirically examine how crowding in emergency departments affects physicians' admission decisions and subsequent patient outcomes, using data from a large hospital network."
+summary: "Effect of ED crowding on admission decisions and patient outcomes."
 tags:
   - Emergency department crowding
   - Admission decisions

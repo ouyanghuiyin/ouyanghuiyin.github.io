@@ -5,15 +5,13 @@ authors:
   - Lauren Lu
   - Zhankun Sun
   - admin
-  
-date: 2025-08-04
-doi: ""
+date: 2025-01-01
 publication_types: ["article"]
 publication: "In preparation"
-url_pdf: ""
+abstract: "We empirically investigate how physician familiarity with ED operations and staffing affects productivity and patient flow."
+summary: "Physician familiarity and emergency-department productivity."
 tags:
   - Emergency department productivity
   - Empirical analysis
   - Behavioral operations
-
 ---
