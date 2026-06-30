@@ -19,15 +19,15 @@ main:
     url: '#wip' # Link to the "Working Papers" widget
     weight: 30
 
+  # Research Grants
+  - name: Research Grants
+    url: '#projects2' # Link to the "Research Grants" widget
+    weight: 35
+
   # Teaching
   - name: Teaching
     url: '#courses' # Link to the "Teaching" widget
     weight: 40
-
-  # Research Grants
-  - name: Research Grants
-    url: '#projects2' # Link to the "Research Grants" widget
-    weight: 50
 
   # Contact
   - name: Contact

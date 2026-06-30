@@ -9,7 +9,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 45
+weight: 35
 
 title: Research Grants
 subtitle: ''
