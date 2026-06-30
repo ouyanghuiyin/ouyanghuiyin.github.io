@@ -3,8 +3,8 @@ title: "PMBA6101 Operations Analytics"
 collection: teaching
 type: "MBA course"
 permalink: /teaching/pmba6101-operations-analytics/
-venue: "HKU Business School"
-date: 2020-09-01
+venue: "HKU Business School, 2022/2023 Spring"
+date: 2023-01-01
 location: "Hong Kong"
 ---
 

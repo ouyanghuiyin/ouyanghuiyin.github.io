@@ -3,8 +3,8 @@ title: "MSBA7015 Service Operations"
 collection: teaching
 type: "TPG course"
 permalink: /teaching/msba7015-service-operations/
-venue: "HKU Business School"
-date: 2024-09-01
+venue: "HKU Business School, 2026/2027 Module 5"
+date: 2026-09-01
 location: "Hong Kong"
 ---
 

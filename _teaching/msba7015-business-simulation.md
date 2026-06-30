@@ -3,8 +3,8 @@ title: "MSBA7015 Business Simulation"
 collection: teaching
 type: "TPG course"
 permalink: /teaching/msba7015-business-simulation/
-venue: "HKU Business School"
-date: 2021-09-01
+venue: "HKU Business School, 2017–2021"
+date: 2017-09-01
 location: "Hong Kong"
 ---
 

@@ -3,8 +3,8 @@ title: "MSBA7004 Operations Analytics"
 collection: teaching
 type: "TPG course"
 permalink: /teaching/msba7004-operations-analytics/
-venue: "HKU Business School"
-date: 2023-09-01
+venue: "HKU Business School, 2026/2027 Module 2"
+date: 2026-09-01
 location: "Hong Kong"
 ---
 
