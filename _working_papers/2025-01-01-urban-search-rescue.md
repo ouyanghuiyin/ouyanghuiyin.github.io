@@ -1,15 +1,15 @@
 ---
-title: "Dynamic Resource Allocation in Urban Search and Rescue Operations"
+title: "Dynamic Allocation of Time-Critical Resources in Disaster Response"
 authors: "H Ouyang, Z Zhang, N Argon, S Ziya"
-venue: "Working paper"
+venue: "HKU Jockey Club Enterprise Sustainability Global Research Institute Paper"
 collection: working_papers
 date: 2025-01-01
 permalink: /working_papers/urban-search-rescue/
-excerpt: 'In preparation'
+excerpt: 'Working paper'
 ---
 
-**Status:** In preparation
+**Status:** Working paper
 
 **Authors:** Huiyin Ouyang, Zheqi Zhang, Nilay Argon, Serhan Ziya
 
-We develop dynamic resource allocation policies for time-critical search-and-rescue operations during disaster response.
+We develop models and methods for dynamically allocating time-critical resources in disaster-response operations.

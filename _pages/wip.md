@@ -11,7 +11,8 @@ author_profile: true
 {% for post in site.working_papers reversed %}
   <li>
     <a href="{{ base_path }}{{ post.url }}" class="pub-title">{{ post.title }}</a><br>
-    <span class="pub-authors">{{ post.authors | replace: 'H Ouyang', '<i>H Ouyang</i>' | replace: 'Huiyin Ouyang', '<i>Huiyin Ouyang</i>' }}</span>
+    <span class="pub-authors">{{ post.authors | replace: 'H Ouyang', '<i>H Ouyang</i>' | replace: 'Huiyin Ouyang', '<i>Huiyin Ouyang</i>' }}</span>{% if post.venue and post.venue != "Working paper" %}<br>
+    <span class="pub-venue">{{ post.venue }}</span>{% endif %}
   </li>
 {% endfor %}
 </ul>
