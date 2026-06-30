@@ -14,7 +14,7 @@ author_profile: true
 <ol class="pub-list">
 {% for post in site.publications reversed %}
   <li>
-    <a href="{{ base_path }}{{ post.url }}" class="pub-title">{{ post.title }}</a><br>
+    <a href="{{ base_path }}{{ post.url }}" class="pub-title">{{ post.title }} ({{ post.date | date: "%Y" }})</a><br>
     <span class="pub-authors">{{ post.authors | replace: 'H Ouyang', '<i>H Ouyang</i>' | replace: 'Huiyin Ouyang', '<i>Huiyin Ouyang</i>' }}</span><br>
     <span class="pub-venue">{{ post.venue }}</span>
   </li>
